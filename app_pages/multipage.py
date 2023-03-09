@@ -8,8 +8,7 @@ class MultiPage:
 
         # Configure the page
         st.set_page_config(
-            page_title = self.app_name,
-            page_icon = "🖥️"
+            page_title = self.app_name
         )
 
     def app_page(self, title, func) -> None:
