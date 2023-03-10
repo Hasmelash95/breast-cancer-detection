@@ -8,3 +8,6 @@ node_modules/
 .github/
 cloudinary_python.txt
 kaggle.json
+inputs/breast_cancer_dataset/ultrasound_images/train
+inputs/breast_cancer_dataset/ultrasound_images/validation
+inputs/breast_cancer_dataset/ultrasound_images/test
